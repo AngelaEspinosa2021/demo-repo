@@ -4,8 +4,7 @@
     {
 
         public string Nombre { get; set; }
-        public int Edad { get; set; }
-        public string correo { get; set;}
+        public int Edad { get; set; }       
 
     }
 }
